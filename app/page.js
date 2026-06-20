@@ -144,7 +144,7 @@ export default function Home(){
 
 {/* ================= SECTION 3: THE REFRAME SPLIT GRID ================= */}
 <section className="w-full bg-white py-28 px-5 md:px-12 lg:px-24 border-t border-stone-300/30">
-  <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-[1.1fr_1fr] gap-16 lg:gap-24 items-start">
+  <div className="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-[1.1fr_1fr] gap-16 lg:gap-24 items-start">
     
     {/* 👈 LEFT SIDE COLUMN: CONCEPT VISUAL + QUOTE STATEMENT */}
     <div className="flex flex-col w-full">
@@ -152,7 +152,7 @@ export default function Home(){
       <div className="w-full aspect-[4/5] sm:aspect-[1.1/1.2] lg:aspect-[4/4.8] bg-[#F7F2F0]  shadow-sm border border-stone-300 flex items-center justify-center relative overflow-hidden mb-8">
         <div className="absolute inset-0 bg-gradient-to-tr from-stone-900/5 py-10 via-transparent to-transparent pointer-events-none" />
         {/* Placeholder if you insert internal asset image block later */}
-      <div className="' font-serif text-stone-950 font-black italic text-xl md:text-[19px] leading-relaxed max-w-md pr-4 mt-120  tracking-wide select-none">
+      <div className="' font-serif text-stone-950 font-black italic text-xl md:text-[18px] leading-relaxed max-w-md pr-4 mt-60 md:mt-100  tracking-wide select-none">
         "Confidence that has to perform isn't confidence. It's a costume. This is about what's underneath it."
       </div>
       </div>
